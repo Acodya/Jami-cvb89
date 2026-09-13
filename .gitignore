@@ -1,0 +1,4 @@
+# Only the encrypted bundle belongs here. Nothing else, ever.
+*
+!.gitignore
+!index.html
